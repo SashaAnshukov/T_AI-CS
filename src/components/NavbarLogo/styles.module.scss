@@ -1,0 +1,17 @@
+.navSection {
+  display: flex;
+  justify-self: flex-start;
+
+  margin: 89px 0 0 0;
+  padding-bottom: 99px;
+  grid-column-end: 3;
+  grid-column-start: 1;
+
+  .nav {
+    padding: 0;
+  }
+
+  .navItem {
+    margin-right: 71.5px;
+  }
+}

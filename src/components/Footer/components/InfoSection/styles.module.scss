@@ -1,0 +1,30 @@
+.infoSection {
+  min-width: 164px;
+  margin: 100px 0 0 0;
+
+  .title {
+    margin: 0 0 12px 0;
+    font-family: "CircularStdMedium";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+  }
+
+  .list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    .link {
+      display: inline-block;
+      text-decoration: none;
+      margin: 18.5px 0 0 0;
+      font-family: "CircularStdMedium";
+      font-size: 14px;
+      line-height: 18px;
+      color: #ffffff;
+      opacity: 0.6;
+    }
+  }
+}

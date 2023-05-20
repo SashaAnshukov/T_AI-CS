@@ -1,0 +1,15 @@
+.App {
+  background-color: #020a18;
+  font-family: "OpenSansSemiBold", "OpenSansExtraBold", "CircularStdMedium";
+  box-sizing: border-box;
+  width: 100%;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  .title {
+    font-size: larger;
+  }
+}

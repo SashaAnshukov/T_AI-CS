@@ -1,0 +1,9 @@
+.footer {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(5, max-content);
+  column-gap: 31px;
+  margin-top: 169px;
+  padding: 0 0 147px 0;
+  background-color: #040e1f;
+}

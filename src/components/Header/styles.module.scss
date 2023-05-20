@@ -1,0 +1,52 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  min-height: 100px;
+  border: solid #030718;
+
+  .mainSection {
+    display: flex;
+    margin: 0 auto;
+  }
+
+  .logoSection {
+    display: flex;
+    margin-top: 21px;
+  }
+
+  .logo {
+    width: 44.04px;
+    height: 57px;
+  }
+  .logoTitle {
+    font-size: 22.5455px;
+    line-height: 31px;
+    color: #3a68b8;
+    margin: 15px 0 0 15px;
+  }
+
+  .nav {
+    margin: 45px 0 0 81.91px;
+    padding: 0;
+  }
+
+  .navItem {
+    font-size: 16px;
+    line-height: 22px;
+    color: #ffffff;
+    margin-left: 40px;
+    text-decoration: none;
+  }
+
+  .button {
+    align-self: center;
+    font-size: 16px;
+    line-height: 22px;
+    color: #ffffff;
+    text-decoration: none;
+    background: #3a68b8;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin: 0 0 0 218px;
+  }
+}

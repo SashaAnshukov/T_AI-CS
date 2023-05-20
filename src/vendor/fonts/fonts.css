@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "OpenSansSemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./OpenSansSemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "OpenSansExtraBold";
+  font-style: normal;
+  font-weight: 800;
+  src: url("./OpenSansExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "OpenSansBold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./OpenSansExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "CircularStdMedium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("./CircularStdMedium.woff") format("woff");
+}
