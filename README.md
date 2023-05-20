@@ -1,6 +1,6 @@
 ## 📖 Описание:
 
-Тестовый лэндинг для ширины экрана 1920px -<br />
+Тестовый лэндинг для ширины экрана 1920px <br />
 
 ## ⚙️ Функционал:
 
@@ -9,7 +9,7 @@
 ## 🛠️: Технологии:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-white?style=flat&logo=sass)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
